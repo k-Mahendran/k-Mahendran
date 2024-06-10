@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @k-Mahendran
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Machine Learning
 
 <!---
 k-Mahendran/k-Mahendran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
