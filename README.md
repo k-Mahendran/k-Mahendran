@@ -1,5 +1,7 @@
-<!-- Banner or Cover Image -->
-
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://tse4.mm.bing.net/th?id=OIP.h6ShifHWGZcpH-ps7o2cPAHaE8&pid=Api" alt="coding-banner" width="90%" />
+</p>
 
 <h1 align="center">Hey there, I'm <span style="color:#4fc3f7">Mahendran K</span> 👋</h1>
 
@@ -9,7 +11,7 @@
 
 ### 🧩 What I Do
 
-> I build **smart systems** to solve real-world problems. From automating document workflows with AI, to designing chatbot interfaces for business tasks – I’m all about **intelligent automation** and **clean code**.
+> I build **smart systems** to solve real-world problems. From automating document workflows with AI to designing chatbot interfaces for business tasks – I’m all about **intelligent automation** and **clean code**.
 
 🧠 I think in code & dream in logic.  
 📦 Currently working on: `InfoXtract` – AI + OCR + Chatbot powered doc automation  
@@ -51,6 +53,18 @@
 
 ---
 
+### 💡 Consistency: The Key to Success
+
+<p align="center">
+  <img src="https://www.vecteezy.com/png/22588366-motivational-quote-the-sure-way-to-see-results-is-by-staying-consistent" alt="Consistency Quote" width="60%" />
+</p>
+
+> "The sure way to see results is by staying consistent."
+
+Consistency is at the heart of all achievements. I believe that regular, dedicated effort leads to meaningful progress and success.
+
+---
+
 ### 💻 My Dev Vibe
 
 <p align="center">
@@ -83,4 +97,4 @@ I enjoy reverse-engineering how things work, brainstorming with whiteboards, and
 
 ---
 
-<p align="center"><i>Thanks for scrolling through! 🚀 Let’s build something amazing.</i></p>
+<p align="center"><i>Thanks for visiting! 🚀 Let’s build something amazing.</i></p>
