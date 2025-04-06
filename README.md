@@ -11,7 +11,7 @@ I'm passionate about building intelligent systems and crafting tools that make p
 - 🔭 Currently building: **InfoXtract** – AI-powered document automation with chatbot integration  
 - 🌱 Learning: **System Design**, **AI/ML**, and **DevOps**
 - 💬 Ask me about: Python, Java, DSA, OS, NLP & Automation
-- 📫 Reach me: **mahendrank.dev@gmail.com**
+- 📫 Reach me: **mahimahendran930@gmail.com**
 
 ---
 
