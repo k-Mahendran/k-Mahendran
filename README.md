@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahendran K</h1>
-<h3 align="center">AI enthusiast | Full-Stack Learner | Problem Solver</h3>
+<h3 align="center">Aspiring Software Developer Role</h3>
 
 ---
 
 - 🔭 I’m currently working on **InfoXtract** – an AI-powered document automation system with chatbot integration.
 - 🌱 I’m learning **Advanced AI, Operating Systems, and System Design**.
 - 💡 I enjoy building **smart tools** that make life easier.
-- 💬 Ask me about **Python, Java, DSA, AI/ML**, and how I automated document handling.
-- 📫 How to reach me: **mahendrank.dev@gmail.com**
+- 💬 Ask me about **Python, Java, C++, DSA, AI/ML**, and how I automated document handling.
+- 📫 How to reach me: **mahimahendran930@gmail.com**
 - ⚡ Fun fact: I love turning ideas into reality through code 💻
 
 ---
