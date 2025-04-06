@@ -1,49 +1,60 @@
-<h2 align="left">Hi 👋! My name is Mahendran K</h2>
+<h1 align="center">Hi 👋, I'm Mahendran K</h1>
+<h3 align="center">AI enthusiast | Full-Stack Learner | Problem Solver</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🔭 I’m currently working on **InfoXtract** – an AI-powered document automation system with chatbot integration.
+- 🌱 I’m learning **Advanced AI, Operating Systems, and System Design**.
+- 💡 I enjoy building **smart tools** that make life easier.
+- 💬 Ask me about **Python, Java, DSA, AI/ML**, and how I automated document handling.
+- 📫 How to reach me: **mahendrank.dev@gmail.com**
+- ⚡ Fun fact: I love turning ideas into reality through code 💻
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 🚀 Featured Project: InfoXtract
 
-###
+**InfoXtract** is a smart document automation system for businesses, helping them:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+- 🧾 Automatically extract info from invoices, employee records, HR docs, etc.
+- 🗃️ Store and organize structured data.
+- 🤖 Interact with files using a chatbot interface.
+- 📉 Reduce manual effort, errors, and save time!
 
-###
+Check it out 👉 [InfoXtract Repository](https://github.com/yourusername/InfoXtract)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 🛠️ Languages & Tools
 
-<br clear="both">
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mahendrank.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
