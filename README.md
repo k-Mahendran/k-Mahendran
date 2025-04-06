@@ -1,7 +1,5 @@
 <!-- Banner or Cover Image -->
-<p align="center">
-  <img src="https://tse4.mm.bing.net/th?id=OIP.h6ShifHWGZcpH-ps7o2cPAHaE8&pid=Api" alt="coding-banner" width="90%" />
-</p>
+
 
 <h1 align="center">Hey there, I'm <span style="color:#4fc3f7">Mahendran K</span> 👋</h1>
 
